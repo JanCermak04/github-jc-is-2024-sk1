@@ -3,4 +3,4 @@
 Test 2024-0926
 
 Jan Cermak 
-v rámci předmětu IS
+v rámci předmětu ISgit
