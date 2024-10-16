@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\001-vypis-rady\\program001-vypis_rady.csproj": {}
+    "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\002a-soucet-cifer\\002a-soucet-cifer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\001-vypis-rady\\program001-vypis_rady.csproj": {
+    "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\002a-soucet-cifer\\002a-soucet-cifer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\001-vypis-rady\\program001-vypis_rady.csproj",
-        "projectName": "program001-vypis_rady",
-        "projectPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\001-vypis-rady\\program001-vypis_rady.csproj",
+        "projectUniqueName": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\002a-soucet-cifer\\002a-soucet-cifer.csproj",
+        "projectName": "002a-soucet-cifer",
+        "projectPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\002a-soucet-cifer\\002a-soucet-cifer.csproj",
         "packagesPath": "C:\\Users\\cjan1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\002a-soucet-cifer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cjan1\\AppData\\Roaming\\NuGet\\NuGet.Config",

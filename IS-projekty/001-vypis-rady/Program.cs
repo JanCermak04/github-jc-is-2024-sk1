@@ -25,22 +25,16 @@ class Program {
             while(!int.TryParse(Console.ReadLine(), out first)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
             }
-
-
             Console.Write("Zadejte poslední číslo řady (celé číslo): ");
             int last;
             while(!int.TryParse(Console.ReadLine(), out last)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte poslední číslo řady znovu: ");
             }
-
-
             Console.Write("Zadejte diferenci (celé číslo): ");
             int step;
             while(!int.TryParse(Console.ReadLine(), out step)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte diference znovu: ");
             }
-
-
             // Výpis zadaných hodnot
             Console.WriteLine();
             Console.WriteLine("Zadali jste tyto hodnoty: ");
@@ -60,20 +54,12 @@ class Program {
 
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("Pro opakování programu stiskněte klávesu A");
-            again = Console.ReadLine();
+            Console.WriteLine("Pro opakování programu stiskněte klávesu A"); 
 
         }
 
     }
 }    
-
-
-    
-
-
-
-
 
 
 // toto je jednořádkový komentář
