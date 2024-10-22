@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\bin\Debug\net8.0\004a-trojuhelnik.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\bin\Debug\net8.0\004a-trojuhelnik.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\bin\Debug\net8.0\004a-trojuhelnik.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\bin\Debug\net8.0\004a-trojuhelnik.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\bin\Debug\net8.0\004a-trojuhelnik.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\refint\004a-trojuhelnik.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\004a-trojuhelnik.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-trojuhelnik\obj\Debug\net8.0\ref\004a-trojuhelnik.dll
