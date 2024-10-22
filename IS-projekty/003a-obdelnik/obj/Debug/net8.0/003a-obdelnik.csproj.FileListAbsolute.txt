@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\bin\Debug\net8.0\003a-obdelnik.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\bin\Debug\net8.0\003a-obdelnik.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\bin\Debug\net8.0\003a-obdelnik.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\bin\Debug\net8.0\003a-obdelnik.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\bin\Debug\net8.0\003a-obdelnik.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\refint\003a-obdelnik.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\003a-obdelnik.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003a-obdelnik\obj\Debug\net8.0\ref\003a-obdelnik.dll
