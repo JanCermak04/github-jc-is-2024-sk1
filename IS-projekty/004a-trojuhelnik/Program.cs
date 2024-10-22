@@ -29,7 +29,7 @@ string again = "a";
             // }
 
             for(int i=1; i<= height; i++) {
-                for(int j=1; j<= i; j++) { //cyclus dokud j nepřesáhne hodnotu i -- tudíž jdou 1-2-3-...//
+                for(int j=1; j<= i; j++) { //cyclus dokud j nepřesáhne hodnotu i -- tudíž jdou 1-2-3-4-...//
                     Console.Write("* ");
                     
                     // zpoždění
