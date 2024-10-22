@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\bin\Debug\net8.0\002b-.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\bin\Debug\net8.0\002b-.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\bin\Debug\net8.0\002b-.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\bin\Debug\net8.0\002b-.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\bin\Debug\net8.0\002b-.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\refint\002b-.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\002b-.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\002b-\obj\Debug\net8.0\ref\002b-.dll
