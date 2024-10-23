@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Data;
 
 class Program {
@@ -59,10 +60,33 @@ class Program {
             for(int i=0; i<n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm+1);
                 Console.Write("{0}; ", myArray[i]); 
-            }
+            }  
+               // kladná záporná nuly
+
+             if (myArray[i]>0)
+                   kladná++
+             if (myArray[i]<0)
+                    zaporná++
+             if (myArray[i]==0)
+                    nuly++
 
 
+            // if (myArray[i]>0)
+            //         kladná++
+            // if (myArray[i]<0)
+            //         zaporná++
+            // if (myArray[i]==0)
+            //         nuly++
 
+
+            // sudá lichá 
+            if (myArray[i]/2 ==0
+                sudá++;
+            else 
+                licha++;
+        
+
+            Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");
             again = Console.ReadLine();
