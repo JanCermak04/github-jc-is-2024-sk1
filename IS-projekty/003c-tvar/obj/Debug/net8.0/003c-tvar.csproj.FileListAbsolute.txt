@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\bin\Debug\net8.0\003c-tvar.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\bin\Debug\net8.0\003c-tvar.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\bin\Debug\net8.0\003c-tvar.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\bin\Debug\net8.0\003c-tvar.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\bin\Debug\net8.0\003c-tvar.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\refint\003c-tvar.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\003c-tvar.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\003c-tvar\obj\Debug\net8.0\ref\003c-tvar.dll
