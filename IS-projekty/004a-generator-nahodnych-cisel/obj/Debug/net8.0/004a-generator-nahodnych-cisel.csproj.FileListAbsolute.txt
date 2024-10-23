@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\bin\Debug\net8.0\004a-generator-nahodnych-cisel.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\bin\Debug\net8.0\004a-generator-nahodnych-cisel.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\bin\Debug\net8.0\004a-generator-nahodnych-cisel.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\bin\Debug\net8.0\004a-generator-nahodnych-cisel.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\bin\Debug\net8.0\004a-generator-nahodnych-cisel.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\refint\004a-generator-nahodnych-cisel.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\004a-generator-nahodnych-cisel.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\004a-generator-nahodnych-cisel\obj\Debug\net8.0\ref\004a-generator-nahodnych-cisel.dll
