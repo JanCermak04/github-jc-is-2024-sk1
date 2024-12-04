@@ -6,7 +6,7 @@ Console.WriteLine("****************************");
 Console.WriteLine("******** Jan Čermák ********");
 Console.WriteLine("****************************");
 Console.WriteLine();
-
+// po zadání domyslet //
 int dm = 0;
 int hm = 10;
 int pocet_prvku = 15;
@@ -83,29 +83,62 @@ Console.WriteLine("--------------------------------------------------");
 Console.WriteLine();
 //binarni soustava čtvre cislo//
 
-    uint originalFourthLargest = (uint)fourthLargest; // Původní hodnota
-    uint[] myArray = new uint[32]; // Pole pro binární čísla
-    uint zbytek;
-    uint z;
+        uint originalFourthLargest = (uint)fourthLargest;
+        uint[] myArray = new uint[32];
+        uint zbytek;
+        uint z;
 
-    
-    for(z=0; originalFourthLargest > 0; z++) {
-        zbytek = originalFourthLargest % 2;
-        originalFourthLargest = (originalFourthLargest - zbytek)/2;
-        myArray[z] = zbytek;
+        for (z = 0; originalFourthLargest > 0; z++)
+        {
+            zbytek = originalFourthLargest % 2;
+            originalFourthLargest /= 2;
+            myArray[z] = zbytek;
+        }
 
-    }
+        Console.WriteLine("Čtvrté největší číslo v binární soustavě:");
+        for (int j = (int)z - 1; j >= 0; j--)
+        {
+            Console.Write(myArray[j]);
+        }
 
-    Console.WriteLine("Čtvré největší číslo je v binární soustavě:");
-    for(uint j=z-1; j>=0; j--) {
-     Console.Write("{0}",myArray[j]);
-    }
-
+Console.WriteLine("\n--------------------------------------------------");
 Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
 Console.WriteLine();
 //fibonacciho posloupnost//
 
 
+
+
+// tvary šipky kosoctverec a presipaci hodiny 
+     Console.WriteLine("Kosoctverec:");
+        int sirka = 7; // Šířka kosodélníku
+        for (int i = 0; i < sirka; i++)
+        {
+            Console.Write(new string(' ', sirka - i));
+            Console.WriteLine(new string('*', 2 * i + 1));
+        }
+        for (int i = sirka - 2; i >= 0; i--)
+        {
+            Console.Write(new string(' ', sirka - i));
+            Console.WriteLine(new string('*', 2 * i + 1));
+        }
+
+    Console.WriteLine("šipka");
+        int vyska = 5; // Výška šipky
+
+        // Horní část šipky (trojúhelník)
+        for (int i = 0; i < vyska; i++)
+        {
+            Console.Write(new string(' ', vyska - i - 1)); // Odsazení
+            Console.WriteLine(new string('*', 2 * i + 1)); // Počet hvězdiček
+        }
+
+        // Tělo šipky (svislý pruh)
+        for (int i = 0; i < vyska; i++)
+        {
+            Console.Write(new string(' ', vyska - 1)); // Odsazení
+            Console.WriteLine("*"); // Jedna hvězdička
+        }
 
 Console.ReadKey();
