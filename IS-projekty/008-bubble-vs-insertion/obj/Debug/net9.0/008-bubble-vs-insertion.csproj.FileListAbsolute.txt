@@ -1,0 +1,15 @@
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\bin\Debug\net9.0\008-bubble-vs-insertion.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\bin\Debug\net9.0\008-bubble-vs-insertion.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\bin\Debug\net9.0\008-bubble-vs-insertion.runtimeconfig.json
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\bin\Debug\net9.0\008-bubble-vs-insertion.dll
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\bin\Debug\net9.0\008-bubble-vs-insertion.pdb
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.AssemblyInfoInputs.cache
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.AssemblyInfo.cs
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.csproj.CoreCompileInputs.cache
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.sourcelink.json
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.dll
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\refint\008-bubble-vs-insertion.dll
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\008-bubble-vs-insertion.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\008-bubble-vs-insertion\obj\Debug\net9.0\ref\008-bubble-vs-insertion.dll

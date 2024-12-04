@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\bin\Debug\net9.0\000a-doucko-na-test.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\bin\Debug\net9.0\000a-doucko-na-test.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\bin\Debug\net9.0\000a-doucko-na-test.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\bin\Debug\net9.0\000a-doucko-na-test.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\bin\Debug\net9.0\000a-doucko-na-test.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\refint\000a-doucko-na-test.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\000a-doucko-na-test.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000a-doucko-na-test\obj\Debug\net9.0\ref\000a-doucko-na-test.dll

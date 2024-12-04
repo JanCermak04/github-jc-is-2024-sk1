@@ -1,0 +1,15 @@
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\bin\Debug\net9.0\011-konvergentni-rady.exe
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\bin\Debug\net9.0\011-konvergentni-rady.deps.json
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\bin\Debug\net9.0\011-konvergentni-rady.runtimeconfig.json
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\bin\Debug\net9.0\011-konvergentni-rady.dll
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\bin\Debug\net9.0\011-konvergentni-rady.pdb
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.AssemblyInfoInputs.cache
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.AssemblyInfo.cs
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.csproj.CoreCompileInputs.cache
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.sourcelink.json
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.dll
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\refint\011-konvergentni-rady.dll
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.pdb
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\011-konvergentni-rady.genruntimeconfig.cache
+c:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\011-konvergentni-rady\obj\Debug\net9.0\ref\011-konvergentni-rady.dll
