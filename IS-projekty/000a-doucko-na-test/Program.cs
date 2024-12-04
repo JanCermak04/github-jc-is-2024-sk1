@@ -1,5 +1,7 @@
-﻿Console.WriteLine("****************************");
-Console.WriteLine("***** Výpis řady čísel *****");
+﻿using System.IO.Compression;
+
+Console.WriteLine("****************************");
+Console.WriteLine("***** příprava na test *****");
 Console.WriteLine("****************************");
 Console.WriteLine("******** Jan Čermák ********");
 Console.WriteLine("****************************");
@@ -56,18 +58,53 @@ for (int i = 0; i < pocet_prvku; i++)
         Console.Write((i + 1) + " ");
     }
 }
+Console.WriteLine();
+Console.WriteLine("--------------------------------------------------");
+Console.WriteLine();
+//serazeni najit nejvetsi//
+Array.Sort(my); // Seřadíme pole od nejmenšího po největší
+for (int i = 0; i < my.Length; i++)
+    {
+        Console.Write(my[i] + " ");
+    }
+
+
+Console.WriteLine(); 
+
+
+int fourthLargest = my[my.Length - 4]; // 4. největší číslo
+int sixthLargest = my[my.Length - 6]; // 6. největší číslo
+
+Console.WriteLine("Ctvrte nejvetsi cislo je: " + fourthLargest);
+Console.WriteLine("Seste nejvetsi cislo je: " + sixthLargest);
 
 Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
 Console.WriteLine();
+//binarni soustava čtvre cislo//
+
+    uint originalFourthLargest = (uint)fourthLargest; // Původní hodnota
+    uint[] myArray = new uint[32]; // Pole pro binární čísla
+    uint zbytek;
+    uint z;
+
+    
+    for(z=0; originalFourthLargest > 0; z++) {
+        zbytek = originalFourthLargest % 2;
+        originalFourthLargest = (originalFourthLargest - zbytek)/2;
+        myArray[z] = zbytek;
+
+    }
+
+    Console.WriteLine("Čtvré největší číslo je v binární soustavě:");
+    for(uint j=z-1; j>=0; j--) {
+     Console.Write("{0}",myArray[j]);
+    }
 
 Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
 Console.WriteLine();
-
-
-int dva = second.max 
-Console.WriteLine("druhé největší číslo:" second.max );
+//fibonacciho posloupnost//
 
 
 

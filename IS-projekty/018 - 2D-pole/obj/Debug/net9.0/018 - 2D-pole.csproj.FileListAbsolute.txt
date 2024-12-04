@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\bin\Debug\net9.0\018 - 2D-pole.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\bin\Debug\net9.0\018 - 2D-pole.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\bin\Debug\net9.0\018 - 2D-pole.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\bin\Debug\net9.0\018 - 2D-pole.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\bin\Debug\net9.0\018 - 2D-pole.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\refint\018 - 2D-pole.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\018 - 2D-pole.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\018 - 2D-pole\obj\Debug\net9.0\ref\018 - 2D-pole.dll

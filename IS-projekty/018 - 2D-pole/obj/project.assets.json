@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\000a-doucko-na-test.csproj",
-      "projectName": "000a-doucko-na-test",
-      "projectPath": "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\000a-doucko-na-test.csproj",
+      "projectUniqueName": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\018 - 2D-pole.csproj",
+      "projectName": "018 - 2D-pole",
+      "projectPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\018 - 2D-pole.csproj",
       "packagesPath": "C:\\Users\\cjan1\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\obj\\",
+      "outputPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cjan1\\AppData\\Roaming\\NuGet\\NuGet.Config"

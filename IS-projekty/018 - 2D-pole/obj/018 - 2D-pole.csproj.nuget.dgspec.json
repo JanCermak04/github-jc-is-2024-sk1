@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\000a-doucko-na-test.csproj": {}
+    "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\018 - 2D-pole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\000a-doucko-na-test.csproj": {
+    "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\018 - 2D-pole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\000a-doucko-na-test.csproj",
-        "projectName": "000a-doucko-na-test",
-        "projectPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\000a-doucko-na-test.csproj",
+        "projectUniqueName": "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\018 - 2D-pole.csproj",
+        "projectName": "018 - 2D-pole",
+        "projectPath": "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\018 - 2D-pole.csproj",
         "packagesPath": "C:\\Users\\cjan1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\000a-doucko-na-test\\obj\\",
+        "outputPath": "c:\\Users\\cjan1\\IS-2024\\github-jc-is-2024-sk1\\IS-projekty\\018 - 2D-pole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cjan1\\AppData\\Roaming\\NuGet\\NuGet.Config"
