@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\bin\Debug\net9.0\012-intervaly.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\bin\Debug\net9.0\012-intervaly.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\bin\Debug\net9.0\012-intervaly.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\bin\Debug\net9.0\012-intervaly.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\bin\Debug\net9.0\012-intervaly.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\refint\012-intervaly.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\012-intervaly.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\012-intervaly\obj\Debug\net9.0\ref\012-intervaly.dll
