@@ -22,8 +22,9 @@ for (int i = 0; i < pocet_prvku; i++)
 {
     Console.Write(my[i] + " ");
 }
-
+Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
+Console.WriteLine();
 int min = my [0];
 int max = my [0];
 for (int i = 0; i < pocet_prvku; i++)
@@ -111,18 +112,24 @@ Console.WriteLine();
 
 
 // tvary šipky kosoctverec a presipaci hodiny 
+
+
      Console.WriteLine("Kosoctverec:");
-        int sirka = 7; // Šířka kosodélníku
-        for (int i = 0; i < sirka; i++)
+      int height = 5; // Výška obdélníku
+        int width = 10; // Šířka obdélníku
+
+        for (int i = 0; i < height; i++)
         {
-            Console.Write(new string(' ', sirka - i));
-            Console.WriteLine(new string('*', 2 * i + 1));
+            // Přidání odsazení pro kosý efekt
+            Console.Write(new string(' ', i));
+
+            // Vykreslení řádku obdélníku
+            Console.WriteLine(new string('*', width));
         }
-        for (int i = sirka - 2; i >= 0; i--)
-        {
-            Console.Write(new string(' ', sirka - i));
-            Console.WriteLine(new string('*', 2 * i + 1));
-        }
+
+
+
+
 
     Console.WriteLine("šipka");
         int vyska = 5; // Výška šipky
@@ -137,8 +144,70 @@ Console.WriteLine();
         // Tělo šipky (svislý pruh)
         for (int i = 0; i < vyska; i++)
         {
-            Console.Write(new string(' ', vyska - 1)); // Odsazení
-            Console.WriteLine("*"); // Jedna hvězdička
+            Console.Write(new string(' ', vyska - 2)); // Odsazení
+            Console.WriteLine("* *"); // Jedna hvězdička
         }
+        // ukončení šipky
+        for (int i = 0; i < vyska - 4; i++)
+        {
+            Console.Write(new string(' ', vyska - 2)); // Odsazení
+            Console.WriteLine("***"); // Jedna hvězdička
+        }
+
+
+
+
+
+
+        // přesípací hodiny //
+        Console.WriteLine("Přesýpací hodiny:");
+
+        int hight = 5; // Výška jedné poloviny přesýpacích hodin
+
+// Horní část (prázdný trojúhelník)
+for (int i = 0; i < hight; i++)
+{
+    Console.Write(new string(' ', i)); // Odsazení zleva
+
+    // První a poslední řádek je plný
+    if (i == 0)
+    {
+        Console.WriteLine(new string('*', (hight - i) * 2 - 1));
+    }
+    else
+    {
+        // Řádky s prázdným vnitřkem
+        Console.Write("*"); // První hvězdička
+        int mezery = (hight - i) * 2 - 3; // Počet mezer uvnitř
+        if (mezery > 0)
+        {
+            Console.Write(new string(' ', mezery));
+        }
+        Console.WriteLine("*"); // Poslední hvězdička
+    }
+}
+
+        // Spodní část (trojúhelník s nulami)
+for (int i = hight - 1; i >= 0; i--)
+{
+    Console.Write(new string(' ', i)); // Odsazení zleva
+
+    // První a poslední řádek je plný
+    if (i == 0)
+    {
+        Console.WriteLine(new string('*', (hight - i) * 2 - 1));
+    }
+    else
+    {
+        // Řádky s nulami uvnitř
+        Console.Write("*"); // První hvězdička
+        int mezery = (hight - i) * 2 - 3; // Počet nul uvnitř
+        if (mezery > 0)
+        {
+            Console.Write(new string('0', mezery));
+        }
+        Console.WriteLine("*"); // Poslední hvězdička
+    }
+}
 
 Console.ReadKey();
