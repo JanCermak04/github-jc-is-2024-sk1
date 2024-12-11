@@ -7,21 +7,60 @@ Console.WriteLine("******** Jan Čermák ********");
 Console.WriteLine("****************************");
 Console.WriteLine();
 // po zadání domyslet //
-int dm = 0;
+
 int hm = 10;
+int dm = 0;
 int pocet_prvku = 15;
+
 int[] my = new int[pocet_prvku];
 
 Random generator = new Random();
 for (int i = 0; i < pocet_prvku; i++)
+
 {
-    my[i] = generator.Next(dm, hm);
+
+    my[i] = generator.Next(dm, hm);
+
 }
 Console.WriteLine("Vygenerovana cisla:");
+
 for (int i = 0; i < pocet_prvku; i++)
-{
-    Console.Write(my[i] + " ");
-}
+
+    Console.Write(my[i] + " ");
+Console.WriteLine();
+Console.WriteLine("--------------------------------------------------");
+Console.WriteLine();
+//bouble sort//
+ // Seřazení pole pomocí Bubble Sortu
+            BubbleSort(my);
+
+            // Výpis seřazených čísel
+            Console.WriteLine("Seřazená čísla:");
+            for (int i = 0; i < pocet_prvku; i++)
+            {
+                Console.Write(my[i] + " ");
+            }
+    
+
+        static void BubbleSort(int[] arr)
+        {
+            int n = arr.Length;
+            for (int i = 0; i < n - 1; i++)
+            {
+                for (int j = 0; j < n - i - 1; j++)
+                {
+                    if (arr[j] > arr[j + 1])
+                    {
+                        // Prohození prvků
+                        int temp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = temp;
+                    }
+                }
+            }
+        }
+Console.Write(arr[j] + " "); // Výpis aktuálního stavu pole
+
 Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
 Console.WriteLine();
@@ -101,16 +140,42 @@ Console.WriteLine();
         {
             Console.Write(myArray[j]);
         }
+Console.WriteLine();
+Console.WriteLine("--------------------------------------------------");
+Console.WriteLine();
 
-Console.WriteLine("\n--------------------------------------------------");
+//aritmetický průměr//
+
+
+
+
 Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
 Console.WriteLine();
 //fibonacciho posloupnost//
 
+Console.Write("Zadejte počet členů Fibonacciho posloupnosti: ");
+            int n = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Fibonacciho posloupnost:");
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(Fibonacci(i) + " ");
+            }
+    
 
+        static int Fibonacci(int n)
+        {
+            if (n <= 1)
+                return n;
+            else
+                return Fibonacci(n - 1) + Fibonacci(n - 2);
 
+        }
+
+Console.WriteLine();
+Console.WriteLine("--------------------------------------------------");
+Console.WriteLine();
 // tvary šipky kosoctverec a presipaci hodiny 
 
 

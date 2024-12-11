@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("000a-doucko-na-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dc12fa04ac3d3d6025df5a7005f03bb91d6fec0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34511d67808e5bd7dddb41fd3e17b9804570055d")]
 [assembly: System.Reflection.AssemblyProductAttribute("000a-doucko-na-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("000a-doucko-na-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
