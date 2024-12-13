@@ -1,6 +1,10 @@
-﻿using System.IO.Compression;
+﻿using System;
 
-Console.WriteLine("****************************");
+class program
+{
+    static void Main()
+    {
+        Console.WriteLine("****************************");
 Console.WriteLine("***** příprava na test *****");
 Console.WriteLine("****************************");
 Console.WriteLine("******** Jan Čermák ********");
@@ -31,35 +35,89 @@ Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
 Console.WriteLine();
 //bouble sort//
- // Seřazení pole pomocí Bubble Sortu
-            BubbleSort(my);
+ BubbleSort(my);
 
-            // Výpis seřazených čísel
-            Console.WriteLine("Seřazená čísla:");
-            for (int i = 0; i < pocet_prvku; i++)
-            {
-                Console.Write(my[i] + " ");
-            }
+        Console.WriteLine("Serazene pole:");
+        foreach (int num in my)
+        {
+            Console.Write(num + " ");
+        }
     
 
-        static void BubbleSort(int[] arr)
+    static void BubbleSort(int[] array)
+    {
+        int n = array.Length;
+        for (int i = 0; i < n - 1; i++)
         {
-            int n = arr.Length;
-            for (int i = 0; i < n - 1; i++)
+            for (int j = 0; j < n - i - 1; j++)
             {
-                for (int j = 0; j < n - i - 1; j++)
+                if (array[j] > array[j + 1])
                 {
-                    if (arr[j] > arr[j + 1])
-                    {
-                        // Prohození prvků
-                        int temp = arr[j];
-                        arr[j] = arr[j + 1];
-                        arr[j + 1] = temp;
-                    }
+                    // Prohozeni hodnot
+                    int temp = array[j];
+                    array[j] = array[j + 1];
+                    array[j + 1] = temp;
                 }
             }
         }
-Console.Write(arr[j] + " "); // Výpis aktuálního stavu pole
+    }
+
+
+//comb sort// 
+
+ static void CombSort(int[] array)
+    {
+        int gap = array.Length;
+        bool swapped;
+        do
+        {
+            gap = Math.Max(1, gap * 10 / 13); // Faktor zkraceni ~1.3
+            swapped = false;
+            for (int i = 0; i + gap < array.Length; i++)
+            {
+                if (array[i] > array[i + gap])
+                {
+                    (array[i], array[i + gap]) = (array[i + gap], array[i]); // Prohozeni
+                    swapped = true;
+                }
+            }
+             Console.WriteLine($"Gap {gap}: {string.Join(" ", array)}");
+        } while (gap > 1 || swapped);
+    }
+
+
+
+   //insertion sort//
+
+     // Insertion sort
+     int[] my new
+      int pocetVymenI=0;
+      Console.WriteLine("\n\nNeseřazené my (před Insertion sortem): ");
+      
+      for(int i=0;i<n;i++)
+        Console.Write("{0}; ",my[i]);
+
+
+      
+      
+      for (int i = 0; i <my.Length - 1; i++)
+      {
+        int j = i + 1;
+        int pom = my[j];
+        while (j > 0 && pom > my[j - 1])
+        {
+            my[j] = my[j - 1];
+            j--;
+            
+        }
+        my[j] = pom;
+      }
+      
+
+     
+      
+      Console.WriteLine("\n\nSeřazené pole1 (Insertion sort): ");
+
 
 Console.WriteLine();
 Console.WriteLine("--------------------------------------------------");
@@ -275,4 +333,4 @@ for (int i = hight - 1; i >= 0; i--)
     }
 }
 
-Console.ReadKey();
+Console.ReadKey();  

@@ -1,0 +1,15 @@
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\bin\Debug\net9.0\000b-doucko.exe
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\bin\Debug\net9.0\000b-doucko.deps.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\bin\Debug\net9.0\000b-doucko.runtimeconfig.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\bin\Debug\net9.0\000b-doucko.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\bin\Debug\net9.0\000b-doucko.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.AssemblyInfoInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.AssemblyInfo.cs
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.csproj.CoreCompileInputs.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.sourcelink.json
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\refint\000b-doucko.dll
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.pdb
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\000b-doucko.genruntimeconfig.cache
+C:\Users\cjan1\IS-2024\github-jc-is-2024-sk1\IS-projekty\000b-doucko\obj\Debug\net9.0\ref\000b-doucko.dll
